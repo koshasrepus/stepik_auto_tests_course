@@ -14,3 +14,6 @@ https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.suppor
 https://stackoverflow.com/questions/15122864/selenium-wait-until-document-is-ready
 https://blog.codeship.com/get-selenium-to-wait-for-page-load/
 Homework for the course
+
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
